@@ -6,3 +6,6 @@ Datasets Home - https://www.kaggle.com/
 
 Fashion MNIST Dataset-
 https://www.kaggle.com/zalando-research/fashionmnist
+
+
+Buying Behavior Using Hierarchical Clustering.
